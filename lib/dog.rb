@@ -3,4 +3,4 @@ class Dog
   attr_accessor :name
   attr_accessor :breed 
   
-  def initialize
+  def initialize(name, breed)
